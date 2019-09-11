@@ -45,7 +45,7 @@ h3 {
 
 .nav-link {
     font-size: 1.2rem;
-    font-weight: 100;
+    color:rgba(255,255,255,.7);
 }
 
 .download-button {
